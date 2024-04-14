@@ -12,7 +12,7 @@ func foo(s string) {
 	}
 }
 
-func main() {
-	go foo("Jamuna")
-	foo("Subedi")
-}
+// func main() {
+// 	go foo("Jamuna")
+// 	foo("Subedi")
+// }
